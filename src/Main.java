@@ -46,7 +46,6 @@ public class Main {
      } else {
          System.out.println("Доставки нет");
      }
-
     // Задача 5
     int monthNumber = 11;
     switch (monthNumber){
